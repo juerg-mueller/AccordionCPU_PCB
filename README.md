@@ -28,6 +28,12 @@ ESP32-S3-DevKitC: ESP32S3DEVK-C1N8 (ca. 20 €)
 
 Wannenstecker 20-polig gewinkelt: WSL 20W (0.31 €)
 
+Pfostenbuchse 20-polig: PFL 20 (0.30 €)
+
+Flachbandkabel 20-polig: AWG 28-20G 3M (3.20 €)
+
 Wannenstecker 6-polig: WSL 6G (0.17 €)
+
+Pfostenbuchse 6-polig: PFL 6 (0.24 €)
 
 Anschlussklemme: AKL 101-02 (0.25 €)
