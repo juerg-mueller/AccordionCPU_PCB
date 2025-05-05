@@ -1,6 +1,6 @@
 # AccordionCPU_PCB
 
-PCB ist mit KiCad gezeichnet worden. Zur Programmierung der Firmware (firmware.bin) braucht man folgende Tool:
+PCB ist mit KiCad gezeichnet worden. Zur Programmierung der Firmware (firmware.bin) braucht man folgende Tools:
 
 https://www.espressif.com/en/support/download/other-tools
 
