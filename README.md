@@ -37,3 +37,7 @@ Wannenstecker 6-polig: WSL 6G (0.17 €)
 Pfostenbuchse 6-polig: PFL 6 (0.24 €)
 
 Anschlussklemme: AKL 101-02 (0.25 €)
+
+
+<img width="430" height="697" alt="flash-esp32" src="https://github.com/user-attachments/assets/c1c88f73-23d4-4edd-8411-3aa4877d73fc" />
+
