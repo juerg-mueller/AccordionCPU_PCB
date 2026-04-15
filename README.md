@@ -39,5 +39,7 @@ Pfostenbuchse 6-polig: PFL 6 (0.24 €)
 Anschlussklemme: AKL 101-02 (0.25 €)
 
 
+<img width="217" height="210" alt="wahl Esp32" src="https://github.com/user-attachments/assets/14110b74-cfd7-4db8-8cba-afaeb62047ce" />
+
 <img width="430" height="697" alt="flash-esp32" src="https://github.com/user-attachments/assets/c1c88f73-23d4-4edd-8411-3aa4877d73fc" />
 
