@@ -24,7 +24,7 @@ IC 74HC00: SN 74HC00 (0.46 €)
 
 Display: DEBO OLED2 0.96 (6 €)
 
-ESP32-S3-DevKitC: ESP32S3DEVK-C1N8 (ca. 20 €) / auch bei mouser.de: 356-ESP32-S3DVKTC1N8
+ESP32-S3-DevKitC: ESP32-S3-DevKitC-1-N8R8 (ca. 16 €) / auch bei mouser.de: 356-EP32S3DVKTC1N8R8
 
 Wannenstecker 20-polig gewinkelt: WSL 20W (0.31 €)
 
